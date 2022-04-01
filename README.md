@@ -1,4 +1,5 @@
 # Treinamento-01-04-2022
- estudos 
+ estudos
 estou aprendendo
-acriarsites
+
+acriarsites e agora vou gerenciar meus repositórios !
